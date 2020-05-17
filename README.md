@@ -7,7 +7,7 @@
     Attention we have released version 2.0
     It has a lot of improvements and fixes
     
-    Update. Version 2.0.0
+    Update. Version 2.0.1
 
     Shoveled system with the addition of services.   
     Now they are much easier to add, remove, modify.    
@@ -20,7 +20,7 @@
     More versions of the program for different architectures appeared in the builds/android folder. 
 
 ## How install
-   1. Download from https://yadi.sk/d/k65sAT2hN_WWoA
+   1. Download from https://drive.google.com/drive/folders/10NT6QIpUq2zYE1vj32rh8resXHXmazUl?usp=sharing
    2. Cd to builds/windows/Infinite-Bomber-x64 or Infinite-Bomber-x86
    3. Start infinite-bomber.exe        
       ![alt text](https://user-images.githubusercontent.com/40857994/64142828-5f00c880-ce16-11e9-874b-95f00930dd40.png)
